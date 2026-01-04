@@ -8,7 +8,7 @@ using **Optuna** for high accuracy and generalization.
 
 ## 🚀 Live Demo
 
-([https://freshspoiledharvest.streamlit.app/])
+https://freshspoiledharvest.streamlit.app/
 
 ## 📌 Features
 
