@@ -50,7 +50,7 @@ on validation data.
 ## ▶ How to Run Locally
 
 ``` bash
-git clone https://github.com/yourusername/fresh_spoiled_harvest.git
+git clone https://github.com/HruthikExploiter/Fresh_Spoiled_Harvest.git
 cd fresh_spoiled_harvest
 pip install -r requirements.txt
 streamlit run app/app.py
